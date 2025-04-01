@@ -1,0 +1,39 @@
+@import "tailwindcss";
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+li{
+  list-style: none;
+}
+
+body {
+  font-family: 'Lilita One', sans-serif;
+  color: #fff;
+  scroll-behavior: smooth;
+}
+
+.uppernav{
+  background-color: #5B2333;
+  padding: 0 2.5rem;
+}
+
+.lowernav{
+  background-color: #A31621;
+  padding: 0 3rem;
+}
+
+.upperfoot{
+  background-color: #5B2333;
+}
+
+.lowerfoot{
+  background-color: #5B2333;
+
+}
+
+
+
